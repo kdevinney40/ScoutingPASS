@@ -11,7 +11,7 @@ var config_data = `
         "maxSize":5,
         "required":"true"
       },
-      "Event":{
+      "Event":"SMR",{
         "code":"e",
         "type":"event",
         "defaultValue":"2022ilpe",
